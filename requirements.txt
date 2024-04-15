@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scipy
+opencv-python
+opencv-contrib-python
+open3d
